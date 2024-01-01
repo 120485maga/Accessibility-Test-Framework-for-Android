@@ -1,6 +1,6 @@
 # Accessibility Test Framework for Android
 
-To help people with disabilities access Android apps, developers of those apps
+To help people with disabilities access Android apps, developers of those apps payjoy desactivar 
 need to consider how their apps will be presented to accessibility services.
 Some good practices can be checked by automated tools, such as if a View has a
 contentDescription. Other rules require human judgment, such as whether or not a
@@ -42,5 +42,6 @@ List<AccessibilityHierarchyCheckResult> errors =
         results, AccessibilityCheckResultType.ERROR);
 if (!errors.isEmpty()) {
   throw new RuntimeException(errors.get(0).getMessage().toString());
-}
-```
+}aplicar**#
+
+``
